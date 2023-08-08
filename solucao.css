@@ -1,0 +1,19 @@
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    color:#205843;
+}
+body{
+    background-color: #A9B69C;
+}
+button{
+    background-color:#205843;
+    padding: 15px 18px;
+    border-radius: 15px;
+    border:none;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+    font-weight: bold;
+}
